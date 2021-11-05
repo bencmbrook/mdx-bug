@@ -1,0 +1,12 @@
+{
+  "eslint.options": {
+    "extensions": [".js", ".jsx", ".mdx", ".ts", ".tsx"]
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "mdx", // waiting on https://github.com/mdx-js/eslint-mdx/issues/356
+    "typescript",
+    "typescriptreact"
+  ]
+}

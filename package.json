@@ -1,0 +1,24 @@
+{
+  "name": "mdx-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencmbrook/mdx-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bencmbrook/mdx-bug/issues"
+  },
+  "homepage": "https://github.com/bencmbrook/mdx-bug#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-plugin-mdx": "^1.16.0"
+  },
+  "packageManager": "yarn@3.1.0"
+}
